@@ -839,3 +839,9 @@
         "courseLink": "https://www.javatpoint.com/data-structure-tutorial".
 
     },
+{
+        "id": "152",
+        "courseName": "Machine learning",
+        "platform": "Google developers",
+        "courseLink": "https://developers.google.com/machine-learning/crash-course"
+    },
